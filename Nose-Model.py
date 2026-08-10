@@ -234,7 +234,7 @@ def train_from_zip(zip_path, epochs=10):
 
 # === MAIN ===
 if __name__ == "__main__":
-    zip_file_path = '/Users/yourname/Documents/NoseData.zip  # Replace with your ZIP path
+    zip_file_path = '/Users/Abhi/Documents/NoseData.zip  # Replace with your ZIP path
 
     print("📸 Plotting sample PNG images:")
    # plot_sample_images_from_zip(zip_file_path, num_images=5)
